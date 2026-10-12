@@ -1,10 +1,5 @@
-# skarrmann's ZMK Configuration
+# ZMK Configuration for Horizon
 
-This repository provides ZMK shields and default keymaps for the following keyboards:
+This repository provides the ZMK shield and keymap for the [Horizon](https://github.com/skarrmann/horizon) keyboard.
 
-* [Horizon](https://github.com/skarrmann/horizon)
-* [Morizon](https://github.com/skarrmann/morizon)
-* [Fract](https://github.com/skarrmann/fract)
-* [Tackle](https://github.com/skarrmann/tackle)
-
-All keyboard definitions support [ZMK Studio](https://zmk.studio/). Refer to the keymap to locate the `&studio_unlock` key.
+The Horizon definition supports [ZMK Studio](https://zmk.studio/). Refer to the keymap to locate the `&studio_unlock` key.
